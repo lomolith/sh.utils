@@ -1,3 +1,4 @@
+#!/bin/sh
 export JOB_MAX=6
 export JOB_NAME="java AllProcessTCGA"
 export DIR_WORK="/home/ubuntu/workspace/tcga/data_pre"
